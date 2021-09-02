@@ -1,4 +1,4 @@
-### General Info
+## General Info
 Senior at the University of South Carolina studying computer science. ![Example of implants](https://forum.dangerousthings.com/uploads/default/optimized/1X/71f2fda977db81e2894636fdbe141f33a2193134_2_674x500.jpg)
 
 ## Areas of Interest
